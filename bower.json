@@ -1,0 +1,18 @@
+{
+  "name": "Glide.js",
+  "version": "0.0.1",
+  "description": "Simple, lightweight and fast jQuery slider",
+  "homepage": "http://jedrzejchalubek.com",
+  "authors": [
+    "@JedrzejChalubek"
+  ],
+  "main": "dist/jquery.glide.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
